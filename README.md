@@ -1,2 +1,9 @@
-# J3R383.github.io
-GitHub hosted webpage for showcasing personal projects
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jeremy Nyanchiri</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
